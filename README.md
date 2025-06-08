@@ -32,3 +32,12 @@ Clone or download this repository:
 
 git clone https://github.com/sifrachid96/Single.page.cv.git
 
+🎯 Working on the "Single Page CV" project from roadmap.sh!
+
+I'm currently building a collection of single-page CV templates using just HTML and CSS — clean, responsive, and ready to customize. This project is helping me sharpen my front-end skills and build something practical for real-world use.
+
+You can follow my progress or check out the templates here:
+🔗 https://roadmap.sh/projects/single-page-cv
+
+✅ More designs and improvements coming soon.
+💬 Feedback, suggestions, or contributions are welcome!
